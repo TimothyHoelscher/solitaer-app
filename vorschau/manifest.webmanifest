@@ -1,0 +1,14 @@
+{
+  "name": "Solitär",
+  "short_name": "Solitär",
+  "lang": "de",
+  "display": "standalone",
+  "start_url": "./",
+  "scope": "./",
+  "background_color": "#16603a",
+  "theme_color": "#16603a",
+  "icons": [
+    { "src": "symbole/symbol-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any" },
+    { "src": "symbole/symbol-512.png", "sizes": "512x512", "type": "image/png", "purpose": "maskable" }
+  ]
+}
